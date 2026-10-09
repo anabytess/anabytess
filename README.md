@@ -8,8 +8,8 @@
 
 *𓆩♡𓆪 aprendendo a programar, um feitiço de cada vez 𓆩♡𓆪*
 
-[![Instagram](https://img.shields.io/badge/Instagram- anabytess-9b59b6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anabytess/)
-[![GitHub](https://img.shields.io/badge/GitHub-anabytess-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anabytess)
+[![Instagram](https://img.shields.io/badge/Instagram-@anabytess-9b59b6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anabytess/)
+[![GitHub](https://img.shields.io/badge/GitHub-@anabytess-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anabytess)
 
 ✦ ─────────────── 🦇 ─────────────── ✦
 
