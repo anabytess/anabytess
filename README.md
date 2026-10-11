@@ -2,20 +2,20 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="GIF animado decorativo">
 
-# ☾ 𝖆𝖓𝖆𝖇𝖞𝖙𝖊𝖘𝖘 🦇
+# ☾ anabytess 🦇
 
-### ୨୧ 𝖺 𝗅𝗂𝗍𝗍𝗅𝖾 𝖻𝗂𝗍 𝗈𝖿 𝖽𝖺𝗋𝗄𝗇𝖾𝗌𝗌, 𝖺 𝗅𝗈𝗍 𝗈𝖿 𝖼𝗈𝖽𝖾 ✦
+### ୨୧ a little bit of darkness, a lot of code ✦
 
-*𓆩♡𓆪 aprendendo a programar, um feitiço de cada vez 𓆩♡𓆪*
+*♡ aprendendo a programar, um feitiço de cada vez ♡*
 
-[![Instagram](https://img.shields.io/badge/Instagram-@anabytess-9b59b6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anabytess/)
-[![GitHub](https://img.shields.io/badge/GitHub-@anabytess-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anabytess)
+[![Instagram](https://img.shields.io/badge/Instagram-anabytess-9b59b6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anabytess/)
+[![GitHub](https://img.shields.io/badge/GitHub-anabytess-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anabytess)
 
 ✦ ─────────────── 🦇 ─────────────── ✦
 
 </div>
 
-## ☽ 𖤐 Sobre mim | About me
+## ☽ Sobre mim | About me
 
 ୨୧ Oii! Eu sou a Ana, tenho 18 anos e estou começando minha jornada no mundo da programação. 🖤
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🕯️ 𖤐 Tecnologias | My toolkit
+## 🕯️ Tecnologias | My toolkit
 
 ୨୧ **Aprendendo atualmente | Currently learning**
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🦇 𖤐 Minha jornada | My journey
+## 🦇 Minha jornada | My journey
 
 ୨୧ Cada linha de código é mais um passo nessa jornada. Ainda estou no começo, mas quero aprender, experimentar e construir coisas incríveis. 🖤
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 🕸️ 𖤐 Meus projetos | My projects
+## 🕸️ Meus projetos | My projects
 
 ୨୧ Meu pequeno cemitério de bugs... que vai virar um jardim de projetos. 🪦🌹
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🌙 𖤐 GitHub em números | GitHub in numbers
+## 🌙 GitHub em números | GitHub in numbers
 
 <div align="center">
 
@@ -86,18 +86,18 @@
 
 ---
 
-## 🖤 𖤐 Onde me encontrar | Find me
+## 🖤 Onde me encontrar | Find me
 
 <div align="center">
 
 ୨୧ Vamos nos conectar? ☾
 
-[![Instagram](https://img.shields.io/badge/Instagram-@anabytess-9b59b6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anabytess/)
-[![GitHub](https://img.shields.io/badge/GitHub-@anabytess-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anabytess)
+[![Instagram](https://img.shields.io/badge/Instagram-anabytess-9b59b6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anabytess/)
+[![GitHub](https://img.shields.io/badge/GitHub-anabytess-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anabytess)
 
 ✦ ─────────────── 🦇 ─────────────── ✦
 
-### 𓆩♡𓆪 *made of moonlight, dreams & semicolons* 𓆩♡𓆪
+### ♡ *made of moonlight, dreams & semicolons* ♡
 
 `console.log("good night, world!");` 🌙
 
